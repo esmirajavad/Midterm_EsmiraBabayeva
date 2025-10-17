@@ -24,6 +24,7 @@ Subject.swift
 Helper.swift
 Data.json
 image recources for each location
+Short videos of demonstration of the app in portrait and lanndscpe formats.
 
 How to Run:
 Clone the repository.
