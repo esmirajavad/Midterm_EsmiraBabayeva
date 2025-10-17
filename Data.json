@@ -1,62 +1,32 @@
 [
-    {
-        "id": "aa32jj887hhg55",
-        "name": "replace with your item's name 1",
-        "description": "replace with a description for this item",
-        "imageName": "image1"
-    },
-    {
-        "id": "bb32jj887hhg77",
-        "name": "replace with your item's name 2",
-        "description": "replace with a description for this item",
-        "imageName": "image2"
-    },
-    {
-        "id": "cc32jj887hhg66",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
-        "imageName": "image3"
-    },
-    {
-        "id": "dd32jj887hhg88",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
-        "imageName": "image4"
-    },
-    {
-        "id": "ee32jj887hhg99",
-        "name": "replace with your item's name 4",
-        "description": "replace with a description for this item",
-        "imageName": "image5"
-    },
-    {
-        "id": "ff32jj887hhg99",
-        "name": "replace with your item's name 5",
-        "description": "replace with a description for this item",
-        "imageName": "image6"
-    },
-    {
-        "id": "gg32jj887hhg99",
-        "name": "replace with your item's name 6",
-        "description": "replace with a description for this item",
-        "imageName": "image7"
-    },
-    {
-        "id": "hh32jj887hhg99",
-        "name": "replace with your item's name 7",
-        "description": "replace with a description for this item",
-        "imageName": "image8"
-    },
-    {
-        "id": "ii32jj887hhg99",
-        "name": "replace with your item's name 8",
-        "description": "replace with a description for this item",
-        "imageName": "image9"
-    },
-    {
-        "id": "jj32jj887hhg99",
-        "name": "replace with your item's name 9",
-        "description": "replace with a description for this item",
-        "imageName": "image10"
-    }
+  {
+    "id": "1",
+    "name": "Baku Botanical Garden",
+    "imageName": "botanical_garden",
+    "description": "A calm, leafy escape inside the city with shaded paths, benches, and seasonal colors—perfect for slow walks and photos."
+  },
+  {
+    "id": "2",
+    "name": "Maiden Tower (Qız Qalası)",
+    "imageName": "maiden_tower",
+    "description": "Baku’s iconic 12th-century stone tower in the Old City. Climb to the top for views over Icherisheher and the Caspian Sea."
+  },
+  {
+    "id": "3",
+    "name": "Heydar Aliyev Center",
+    "imageName": "ha_center",
+    "description": "Zaha Hadid’s flowing, futuristic landmark. The museum and gallery host design, culture, and tech exhibits in a stunning space."
+  },
+  {
+    "id": "4",
+    "name": "Old City (Icherisheher)",
+    "imageName": "old_city",
+    "description": "UNESCO-listed heart of Baku with narrow lanes, caravanserais, and stone houses—best explored on foot with plenty of photo stops."
+  },
+  {
+    "id": "5",
+    "name": "Flame Towers",
+    "imageName": "flame_towers",
+    "description": "Three glass towers that light up the skyline at night with animated LEDs—Baku’s most modern postcard view."
+  }
 ]

@@ -5,7 +5,7 @@
 //  Created by Pacheco, Hellen on 10/9/21.
 //
 
-import SwiftUI
+import Foundation
 
 struct Subject : Codable, Identifiable {
     var id: String

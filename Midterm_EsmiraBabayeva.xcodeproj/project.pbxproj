@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C44618B72EA21CED00F31BF1 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44618B62EA21CED00F31BF1 /* Subject.swift */; };
+		C44618B82EA21CED00F31BF1 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44618B52EA21CED00F31BF1 /* Helper.swift */; };
+		C44618B92EA21CED00F31BF1 /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = C44618B42EA21CED00F31BF1 /* Data.json */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C457AE332EA21505009E5B56 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +30,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C44618B42EA21CED00F31BF1 /* Data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Data.json; sourceTree = "<group>"; };
+		C44618B52EA21CED00F31BF1 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		C44618B62EA21CED00F31BF1 /* Subject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
 		C457AE252EA21503009E5B56 /* Midterm_EsmiraBabayeva.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Midterm_EsmiraBabayeva.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C457AE322EA21505009E5B56 /* Midterm_EsmiraBabayevaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Midterm_EsmiraBabayevaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C457AE3C2EA21505009E5B56 /* Midterm_EsmiraBabayevaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Midterm_EsmiraBabayevaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +84,9 @@
 		C457AE1C2EA21503009E5B56 = {
 			isa = PBXGroup;
 			children = (
+				C44618B42EA21CED00F31BF1 /* Data.json */,
+				C44618B52EA21CED00F31BF1 /* Helper.swift */,
+				C44618B62EA21CED00F31BF1 /* Subject.swift */,
 				C457AE272EA21503009E5B56 /* Midterm_EsmiraBabayeva */,
 				C457AE352EA21505009E5B56 /* Midterm_EsmiraBabayevaTests */,
 				C457AE3F2EA21505009E5B56 /* Midterm_EsmiraBabayevaUITests */,
@@ -212,6 +224,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C44618B92EA21CED00F31BF1 /* Data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +249,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C44618B72EA21CED00F31BF1 /* Subject.swift in Sources */,
+				C44618B82EA21CED00F31BF1 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
