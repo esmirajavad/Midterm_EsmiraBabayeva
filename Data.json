@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "replace with your item's name 1",
+        "description": "replace with a description for this item",
+        "imageName": "image1"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "replace with your item's name 2",
+        "description": "replace with a description for this item",
+        "imageName": "image2"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "replace with your item's name 3",
+        "description": "replace with a description for this item",
+        "imageName": "image3"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "replace with your item's name 3",
+        "description": "replace with a description for this item",
+        "imageName": "image4"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "replace with your item's name 4",
+        "description": "replace with a description for this item",
+        "imageName": "image5"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "replace with your item's name 5",
+        "description": "replace with a description for this item",
+        "imageName": "image6"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "replace with your item's name 6",
+        "description": "replace with a description for this item",
+        "imageName": "image7"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "replace with your item's name 7",
+        "description": "replace with a description for this item",
+        "imageName": "image8"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "replace with your item's name 8",
+        "description": "replace with a description for this item",
+        "imageName": "image9"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "replace with your item's name 9",
+        "description": "replace with a description for this item",
+        "imageName": "image10"
+    }
+]
